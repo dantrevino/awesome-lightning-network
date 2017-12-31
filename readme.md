@@ -59,6 +59,7 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 
 - [lightning-app](https://github.com/lightninglabs/lightning-app) - Cross-platform Lightning Desktop Application
 - [lnd-gui](https://github.com/alexbosworth/lnd-gui) - Lightning MacOS GUI Wallet
+- [eclair-node-gui](https://github.com/ACINQ/eclair) - Cross-platform desktop GUI for Lightning
 - [zap-desktop](https://github.com/LN-Zap/zap-desktop) - Lightning Network desktop application
 
 
@@ -74,12 +75,13 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [ln-dice](https://github.com/mably/ln-dice) - Dice gambling service using the Lightning Network for deposits and withdrawals
 - [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
 - [lightning-cat](https://github.com/rustyrussell/lightning-cat/blob/master/catsearch.sh) - Cat pictures via Lightning
+- [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
 
 ## Developer Resources
 
 - [Lightning Overview](http://dev.lightning.community/overview/)
-- [Lightning Network Developers Site](http://dev.lightning.community/)
-- [Lightning Network Developer Guide](http://dev.lightning.community/guides/)
+- [LND Developers Site](http://dev.lightning.community/)
+- [LND Developer Guide](http://dev.lightning.community/guides/)
 - [Rusty Russell's BOLT Blog Series](https://medium.com/@rusty_lightning/the-bitcoin-lightning-spec-part-1-8-a7720fb1b4da)
 
 ### Libraries
@@ -92,6 +94,7 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [lseed](https://github.com/cdecker/lseed) - A DNS seed for the Lightning Network
 - [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
 - [lnrpc-client](https://github.com/michielbdejong/lnrpc-client) - Javascript RPC Client for LND
+- [ln-service](https://github.com/alexbosworth/ln-service) - Lightning REST Service
 
 
 ### Tutorials
